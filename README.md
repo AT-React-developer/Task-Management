@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  Task Management
 
+## Step before working in project
+
+ Make a clone into your local 
+
+git clone https://github.com/AT-React-developer/Task-Management.git
+ 
 ## Available Scripts
 
 In the project directory, you can run:
