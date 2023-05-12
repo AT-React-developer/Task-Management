@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Name
+
+ Task Management
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +72,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+##  Task List 
+
+-[]- Display a list of tasks with their titles and status (completed or pending).
+-[]- Allow users to add new tasks to the list.
+-[]- Enable users to mark tasks as completed, visually distinguishing them from pending tasks.
+-[]- Provide an option for users to remove tasks from the list.
+-[]- Implement filters to allow users to view only pending tasks, completed tasks, or all tasks.
+-[]- Show the total number of tasks and the number of completed tasks.
+-[]- Store the tasks into firebase, so they persist even when the page is refreshed.
